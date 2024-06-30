@@ -1,2 +1,5 @@
 # Etch-a-Sketch
-The Odin Project
+
+Upload of a project from early 2024, made as part of The Odin Project curriculum
+
+Technologies used: Tailwind
